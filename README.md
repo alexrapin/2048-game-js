@@ -20,7 +20,7 @@
 - JavaScript
 
 ## Links
-- **Preview:** [DEMO LINK](https://alexrapin.github.io/js-2048-game/)
+- **Preview:** [DEMO LINK](https://alexrapin.github.io/2048-game-js/)
 - **Mockup:** [Original 2048](https://play2048.co/)
 
 ## Launch Instructions
